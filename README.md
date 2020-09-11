@@ -1,6 +1,6 @@
-# Private IOTA Hashchain
+# IOTA Hashchain
 The Hashchain is a solution to create a chain of proofs about the integrity of data stored in a database. It is heavily inspired by the principles and mechanisms of traditional blockchains and it uses the IOTA-Tangle as a temporay immutable storage layer.
-Full description at: https://medium.com/@alebuser  
+Full description at: https://medium.com/@alebuser/hashchain-for-immutable-data-storage-using-the-iota-tangle-273c146e1b9f
 
 NOTE: this is a prototype and unexpected behavior should be expected
 
