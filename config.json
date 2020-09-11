@@ -1,0 +1,7 @@
+{
+    "endpoint": "0.0.0.0:8585",
+    "target_address": "MY9TARGET9ADDRESS9MY9TARGET9ADDRESS9MY9TARGET9ADDRESS9MY9TARGET9ADDRESS9MY9TARGET",
+    "iota_node": "https://nodes.iota.cafe:443",
+    "local_pow": false,
+    "seconds_per_block": 30
+}
